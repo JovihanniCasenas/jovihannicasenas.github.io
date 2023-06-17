@@ -1,0 +1,38 @@
+/*fonts from Google Fonts, just copy link and paste to html file, copy fam and paste in css file*/
+/* bootstrap link: https://getbootstrap.com/docs/5.0/getting-started/introduction/ */
+
+/*Universal Selector, ang asterisk to apply to all elements*/
+*	{
+	font-family: 'Roboto', sans-serif;
+	/*to add external styling using css, just text color lols*/
+	color: white;
+}
+
+/*Type Selector, can select specific elements depending on type*/
+h1 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+/*ID Selector, can select element using its ID*/
+#profile {
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+}
+
+/* another Type Selector, background from svgbackgrounds.com*/
+body {
+	background-color: #FFBF46;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg %3E%3Cpolygon fill='%23ee9938' points='1600 160 0 460 0 350 1600 50'/%3E%3Cpolygon fill='%23dd732a' points='1600 260 0 560 0 450 1600 150'/%3E%3Cpolygon fill='%23cc4c1c' points='1600 360 0 660 0 550 1600 250'/%3E%3Cpolygon fill='%23bb260e' points='1600 460 0 760 0 650 1600 350'/%3E%3Cpolygon fill='%23A00' points='1600 800 0 800 0 750 1600 450'/%3E%3C/g%3E%3C/svg%3E");
+	background-attachment: fixed;
+	background-size: cover;
+} 
+
+/*ID selector na sad for the landing*/
+#landing {
+	height: 80vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
