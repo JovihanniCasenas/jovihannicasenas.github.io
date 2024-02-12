@@ -1,0 +1,3 @@
+Drabbleatory: Reduced to Ashes
+20240212
+&nbsp;&nbsp;&nbsp;&nbsp;All I could see is darkness. All I could hear is the roaring sound of some machinery. All I could feel is scorching heat. Then I remember, I was having a flu when people in hazmat suits took me to the hospital. Having no home and family as a street dweller, I obliged, knowing that there will be food there. They ran various tests and turned out that I am COVID-19 positive. I was taken to the ward which is the last thing I remember before falling unconscious. Then I realize, the darkness, the heat, *why am I cremated alive?*

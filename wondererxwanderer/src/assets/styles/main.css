@@ -1,0 +1,75 @@
+.wxw-logo {
+    max-height: 40px;
+    max-width: 40px;
+    cursor: pointer;
+}
+
+.app-header-title {
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
+.logo {
+    max-height: 38px;
+    max-width: 38px;
+    margin: 5px;
+}
+
+.content-wrapper {
+    margin: 50px;
+}
+
+.content-title {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 40px;
+    text-align: center;
+    color: var(--content-title-color);
+}
+
+.content-body {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 21px;
+    text-align: justify;
+    line-height: 50px;
+}
+
+.content-timestamp {
+    font-style: italic;
+    color: var(--timestamp-color);
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.content-card {
+    margin: 50px;
+    /* margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px; */
+}
+
+.content-card-title {
+    color: var(--content-card-title);
+    font-size: 25px;
+}
+
+.content-card-body {
+    margin: 20px;
+    text-align: justify;
+    font-size: 21px;
+}
+
+.line-spacer {
+    line-height: 50px;
+}
+
+.divider {
+    border: 1px solid var(--divider-color);
+    margin-bottom: 40px;
+}
